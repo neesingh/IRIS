@@ -1,0 +1,193 @@
+<?xml version='1.0'  encoding='windows-1252' standalone='yes' ?>
+<LVData>
+<Version>7.1</Version>
+<Cluster>
+<Name>ZER_ASPH_Parameters</Name>
+<NumElts>11</NumElts>
+<EW>
+<Name>PolynomialType</Name>
+<Choice>Aspheric</Choice>
+<Choice>Zernike</Choice>
+<Choice>Zernike + Aspheric</Choice>
+<Choice>Legendre</Choice>
+<Val>1</Val>
+</EW>
+<EL>
+<Name>NormalizationType</Name>
+<Choice>RMS</Choice>
+<Choice>Standard</Choice>
+<Val>0</Val>
+</EL>
+<Array>
+<Name>TAB_Zernike (microns)</Name>
+<Dimsize>20</Dimsize>
+<DBL>
+<Name>Numeric</Name>
+<Val>0.12780</Val>
+</DBL>
+<DBL>
+<Name>Numeric</Name>
+<Val>1.73052E-2</Val>
+</DBL>
+<DBL>
+<Name>Numeric</Name>
+<Val>3.56252E-2</Val>
+</DBL>
+<DBL>
+<Name>Numeric</Name>
+<Val>2.61792E-2</Val>
+</DBL>
+<DBL>
+<Name>Numeric</Name>
+<Val>4.42091E-2</Val>
+</DBL>
+<DBL>
+<Name>Numeric</Name>
+<Val>1.62372E-2</Val>
+</DBL>
+<DBL>
+<Name>Numeric</Name>
+<Val>1.38222E-2</Val>
+</DBL>
+<DBL>
+<Name>Numeric</Name>
+<Val>2.28246E-3</Val>
+</DBL>
+<DBL>
+<Name>Numeric</Name>
+<Val>-1.64694E-2</Val>
+</DBL>
+<DBL>
+<Name>Numeric</Name>
+<Val>5.18161E-3</Val>
+</DBL>
+<DBL>
+<Name>Numeric</Name>
+<Val>8.20889E-3</Val>
+</DBL>
+<DBL>
+<Name>Numeric</Name>
+<Val>-4.78425E-3</Val>
+</DBL>
+<DBL>
+<Name>Numeric</Name>
+<Val>-7.78351E-4</Val>
+</DBL>
+<DBL>
+<Name>Numeric</Name>
+<Val>-9.62094E-3</Val>
+</DBL>
+<DBL>
+<Name>Numeric</Name>
+<Val>8.52520E-4</Val>
+</DBL>
+<DBL>
+<Name>Numeric</Name>
+<Val>2.30136E-2</Val>
+</DBL>
+<DBL>
+<Name>Numeric</Name>
+<Val>-1.12202E-2</Val>
+</DBL>
+<DBL>
+<Name>Numeric</Name>
+<Val>-2.72210E-3</Val>
+</DBL>
+<DBL>
+<Name>Numeric</Name>
+<Val>1.13691E-2</Val>
+</DBL>
+<DBL>
+<Name>Numeric</Name>
+<Val>-6.46574E-3</Val>
+</DBL>
+</Array>
+<Array>
+<Name>TAB_Legendre (microns)</Name>
+<Dimsize>0</Dimsize>
+<DBL>
+<Name>Numeric</Name>
+<Val></Val>
+</DBL>
+</Array>
+<Array>
+<Name>TAB_Aspheric (microns)</Name>
+<Dimsize>0</Dimsize>
+<DBL>
+<Name>Numeric</Name>
+<Val></Val>
+</DBL>
+</Array>
+<Cluster>
+<Name>Pupil coordinates</Name>
+<NumElts>4</NumElts>
+<Cluster>
+<Name>Zernike pupil center (mm)</Name>
+<NumElts>2</NumElts>
+<SGL>
+<Name>X</Name>
+<Val>2.50440E-2</Val>
+</SGL>
+<SGL>
+<Name>Y</Name>
+<Val>-6.37252E-2</Val>
+</SGL>
+</Cluster>
+<SGL>
+<Name>Zernike pupil radius (mm)</Name>
+<Val>1.38500</Val>
+</SGL>
+<Cluster>
+<Name>Lengendre pupil center (mm)</Name>
+<NumElts>2</NumElts>
+<SGL>
+<Name>X</Name>
+<Val>0.00000</Val>
+</SGL>
+<SGL>
+<Name>Y</Name>
+<Val>0.00000</Val>
+</SGL>
+</Cluster>
+<Cluster>
+<Name>Lengendre pupil size (mm)</Name>
+<NumElts>2</NumElts>
+<SGL>
+<Name>X</Name>
+<Val>0.00000</Val>
+</SGL>
+<SGL>
+<Name>Y</Name>
+<Val>0.00000</Val>
+</SGL>
+</Cluster>
+</Cluster>
+<EW>
+<Name>SlopesType</Name>
+<Choice>Raw Slopes</Choice>
+<Choice>Slopes Reference</Choice>
+<Choice>Add To Actual Slopes Reference</Choice>
+<Val>0</Val>
+</EW>
+<DBL>
+<Name>seuil 0 - 1</Name>
+<Val>0.00000</Val>
+</DBL>
+<SGL>
+<Name>rayon faisceau mm</Name>
+<Val>0.00000</Val>
+</SGL>
+<EW>
+<Name>type faisceau</Name>
+<Choice>plan</Choice>
+<Choice>gaussien</Choice>
+<Choice>gaussien décalé</Choice>
+<Val>0</Val>
+</EW>
+<SGL>
+<Name>decalage en pixels</Name>
+<Val>0.00000</Val>
+</SGL>
+</Cluster>
+
+</LVData>

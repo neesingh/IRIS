@@ -1,0 +1,1 @@
+function s = lint(x,y)% line integral = cumulative length of a curved line defined by vectors x,y%% example: find circumference of circle% t = [0:1:360]*pi/180;% x=cos(t); y=sin(t);% s = lint(x,y);  =>  s(end) = 6.2831% LNT 8Feb03dx = diff(x);dy = diff(y);dz = sqrt(dx.^2 + dy.^2);s = cumsum(dz);

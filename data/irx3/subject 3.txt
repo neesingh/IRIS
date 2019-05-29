@@ -1,0 +1,110 @@
+Date	2015/09/02 13:49:07
+Software version	IRX 3 - version 1.2 Beta
+Patient	EXAMPLE SUBJECT
+Visit	9/2/2015, 12:56:00 PM
+Measurement n°	1
+Side	OS
+Sphero-cylinder coefficients	***************
+Stimulus vergence (diopter)	0.65  
+Time (ms)	0 
+Sphere (diopter)	-0.23 
+Cylinder (diopter)	-1.31 
+Axis (Degree)	73.3 
+RX plane	Cornea
+RX sign convention	NEG
+Zernike Coefficients	***************
+Zernike compute Mode	nc
+Normalized pupil diameter (mm)	5.705
+Normalized pupil X position (mm)	0.000
+Normalized pupil Y position (mm)	0.000
+Stimulus vergence (diopter)	0.65  
+Time (ms)	0 
+Fitting quality	51.70 
+z (2 , -2) (µm)	-0.641
+z (2 , 0) (µm)	1.165
+z (2 , 2) (µm)	0.866
+z (3 , -3) (µm)	-0.047
+z (3 , -1) (µm)	0.257
+z (3 , 1) (µm)	-0.136
+z (3 , 3) (µm)	-0.137
+z (4 , -4) (µm)	0.014
+z (4 , -2) (µm)	0.026
+z (4 , 0) (µm)	-0.062
+z (4 , 2) (µm)	0.022
+z (4 , 4) (µm)	-0.024
+z (5 , -5) (µm)	-0.043
+z (5 , -3) (µm)	-0.028
+z (5 , -1) (µm)	-0.053
+z (5 , 1) (µm)	0.018
+z (5 , 3) (µm)	-0.005
+z (5 , 5) (µm)	-0.025
+z (6 , -6) (µm)	-0.020
+z (6 , -4) (µm)	0.020
+z (6 , -2) (µm)	0.007
+z (6 , 0) (µm)	-0.023
+z (6 , 2) (µm)	0.024
+z (6 , 4) (µm)	0.012
+z (6 , 6) (µm)	0.027
+z (7 , -7) (µm)	-0.002
+z (7 , -5) (µm)	0.000
+z (7 , -3) (µm)	0.006
+z (7 , -1) (µm)	0.007
+z (7 , 1) (µm)	-0.004
+z (7 , 3) (µm)	0.006
+z (7 , 5) (µm)	0.009
+z (7 , 7) (µm)	0.020
+z (8 , -8) (µm)	-0.003
+z (8 , -6) (µm)	0.011
+z (8 , -4) (µm)	-0.007
+z (8 , -2) (µm)	-0.003
+z (8 , 0) (µm)	0.001
+z (8 , 2) (µm)	-0.008
+z (8 , 4) (µm)	-0.001
+z (8 , 6) (µm)	-0.011
+z (8 , 8) (µm)	-0.018
+
+Diopter coefficient	***************
+Stimulus vergence (diopter)	0.65  
+Time (ms)	0 
+D (2 , -2) Degree	71.8
+D (2 , 0) D	-0.992
+D (2 , 2) D	-0.918
+D (3 , -3) Degree	6.3
+D (3 , -1) Degree	297.8
+D (3 , 1) D	-0.247
+D (3 , 3) D	-0.123
+D (4 , -4) Degree	82.4
+D (4 , -2) Degree	115.1
+D (4 , 0) D	0.053
+D (4 , 2) D	-0.029
+D (4 , 4) D	-0.023
+D (5 , -5) Degree	12.0
+D (5 , -3) Degree	26.4
+D (5 , -1) Degree	109.0
+D (5 , 1) D	-0.048
+D (5 , 3) D	-0.024
+D (5 , 5) D	-0.042
+D (6 , -6) Degree	23.8
+D (6 , -4) Degree	59.8
+D (6 , -2) Degree	98.4
+D (6 , 0) D	0.020
+D (6 , 2) D	-0.022
+D (6 , 4) D	-0.020
+D (6 , 6) D	-0.029
+D (7 , -7) Degree	25.0
+D (7 , -5) Degree	36.5
+D (7 , -3) Degree	75.1
+D (7 , -1) Degree	299.7
+D (7 , 1) D	-0.007
+D (7 , 3) D	-0.007
+D (7 , 5) D	-0.007
+D (7 , 7) D	-0.017
+D (8 , -8) Degree	1.1
+D (8 , -6) Degree	52.6
+D (8 , -4) Degree	19.8
+D (8 , -2) Degree	10.1
+D (8 , 0) D	-0.001
+D (8 , 2) D	-0.007
+D (8 , 4) D	-0.006
+D (8 , 6) D	-0.013
+D (8 , 8) D	-0.016

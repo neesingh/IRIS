@@ -1,0 +1,1 @@
+function f = EntropyFun(theMatrixDiv)%EntropyFun	The equation for entropy used by Entropy.m%	f = EntropyFun(theMatrixDiv)%%See Entropy.m%%History%% 5/3/2002		bds		wrote it for ARVO, based on Antonio Guirao's code% 8/15/2002		bds		added to matwave package% 8/20/2002		bds		removed complex component%f = real(-theMatrixDiv .* log2(theMatrixDiv));

@@ -1,0 +1,165 @@
+Change log 0.93 => 0.92
+- Validated and improved the frequency scaling of PSF's and MTF's in accordance with the diffraction limit,
+- New feature in the Launcher; "add wavefront". Any two-dimensional wavefront can now be added on top of the Zernike-described wavefront to create composite eye models.
+- Interface tweaks and improvements.
+
+Change log 0.92 => 0.90
+- The "export analysis" button is now available in all 3 analysis windows, while the "import analysis" is available in the main, launcher window for easier loading/saving of lengthy analyses. Bear in mind that these files can take up 200 Mb of space (or more, depending on the length).
+- Fixed a bug where the compiled version of IRIS would not find the correct path to load its images.
+- Added an option to include or exclude the V(lambda) curve in/from polychromatic analyses.
+
+- Fixed a bug where clicking on the target image, after changing to one of the Red / Green / Blude modes, a popup window to load a new image would not appear.
+
+Change log 0.90 => 0.88
+- IRIS is published on the IU Clinical Optics Research Lab website: http://blogs.iu.edu/corl.
+- Interface updates to make it more straight forward, renamed several options and moved things around and added explanations.
+- Added a feature where the LCA can be increased or decreased by scaling the Indiana Eye Model curve.
+- Removed contourmap as default display mode of 2d wavefronts as it was slow and not that useful.
+- Fixed a bug which prevented the /images/ folder to pop up the first time the image is changed by user.
+- The minimum size of the program window has been limited to 1550 x 850 pix. IRIS requires a 1600 x 900 pix display or larger.
+
+Change log 0.88 => 0.87
+- New box in the Pupil&PSF tab: LCA Multiplier (default 1.0),
+  It just multiplies the values of LCA obtained from the Indiana Eye Model by a coefficient.
+- New button underneath the MTF plot: Copy,
+  It copies the frequencies, radial MTF values and CSF values to clipboard so that you can paste them to Excel.
+- Improved display of MTF plots (nicer colors, grids, etc.)
+- Removed the 3 loops from the polyPSF computation when the user selects the Uniform spectrum.
+
+Change log 0.87 => 0.86:
+- Added the function to use the chosen monochromatic channel (typically red, green or blue) of the selected image. When a color image is loaded into the program, the top center panel now includes additional tabs to select the desired color channel.
+  Note regarding the wavelengths: If the user loads a monochromatic image, then the device lambda will be used for analysis (located in the Zernike panel of the launcher, marked by the Greek symbol of lambda). On the other hand, if the user loads a color image, but selects one of its monochromatic
+  color channels for analysis, the wavelength associated with this channel (typically 700, 550 or 400nm) will be used, and there may be LCA effects. These wavelengths can be adjusted in the settings panel (buttom with the wrench icon).
+- Minor bug fixes and updates.
+
+Change log 0.86 => 0.85:
+- Added COAS support for .Fn files. It only imports the Zernike coefficients and pupil radii. It does not take into account any individual modifications of COAS systems, nor correct for LCA.
+- Added support for Nidek OPD-Scan III .csv files, which are really plain text files. Actually they additionally hold a lot of interesting info that perhaps should be somehow included in the future.
+- Added the Power Vectors and MTR Spherical Equivalent values to the Ophthalmic Coefficients panel in the Launcher.
+
+Change log 0.86 => 0.85:
+- New Feature: Wavefront Propagation. Now it is possible to calculate the Zernike coefficients of a wavefront propagated over a desired distance. The feature is available in the Zernikes panel.
+- Jos Rozema's stochastic eye generator can now be set to generate either normal or queratoconic eyes.
+- Radial Averaged MTF profiles are now available along with horizontal and vertical profiles in the Wavefront Analysis window (wavefront icon in the top left corner of the launcher window).
+- License added to the distribution: Attribution-NonCommercial-NoDerivatives 4.0 International.
+
+Change log 0.85 => 0.83:
+- New name and icon!
+- Added the possibility to save the analysis and later load it. The option is available in the IQ Metrics panel, as it is the most useful there. The files are large - about 500 Mb for a 25 step analysis.
+- The series of images of PSF's is now saved to /output/PSF series/ every time a through focus or batch analysis is ran, and IQ metrics panel is opened.
+- The user has now the option to export the series of simulated retinal images for a batch or through focus analysis. The option is in the IQ Metrics panel.
+- Improved IQ Metrics panel. Cleaned up the list of the metrics, moved the PSF series to the bottom of the screen, where up to 28 PSFs are displayed.
+- Improved Wavefront Analysis panel. This panel behaves differently for Simple and Poly PSF analyses, and also for Single and Through Focus analyses. Removed the Extra Wavefront Analysis panel it is now merged with Wavefront Analysis.
+- Removed old methods of calculating the reference diffraction limited PSF. It is now by default calculated using the same pipeline as all other PSFs, but with all Zernikes set to 0. Previous, alternative methods such as using the Somb function are preserved and can be selected from the settings panel.
+- Updated Jos Rozema's Eye Generator to the official final version.
+- Added the possibility to rotate the Zernikes in addition to rescaling.
+- Fixed maximum window size to 1600 x 900 px.
+- A lot of interface fixes and improvements.
+
+Change log 0.83 => 0.82:
+- This is mostly a bugfix and compatibility release. Tested on a PC version of Matlab 2016a, some warnings appeared and were fixed.
+- Removed legacy FOC IQ Metrics from the IQ Metrics Analysis window. They were largely untested.
+- Fixed and implemented 10 IQ Metrics, including VSOTF, VSX (Visual Strehl Ratio in Space Domain), minRMS, Parax, MTR,...
+- Other legacy FOC metrics can be re-implemented upon request.
+- Performance and memory fixes. Diffraction-limited and neural PSFs are now stored separately to save space.
+- Fixed a bug that ocurred when Batch Mode was ticked together with Through Focus Analysis.
+
+Change log 0.82 => 0.81:
+- New feature - eye generator. Uses a statistical model to generate physiologically-feasible eye aberrations, kindly shared by Jos Rozema.
+- New feature - batch mode. You can now select any number of compatible files containing eye aberrations and they can be analyzed by the IS just as a through-zernike sweep.
+- The last used directory (for importing files, loading and saving images, etc.) is remembered so that you don't have to traverse the directory tree all the time.
+- The aberrations source textbox has been replaced by a dropdown menu, so the user can assign HASO type of device to IRX-3 aberrations, or scrap device-specific settings by choosing Manual mode.
+- The IS settings dialog box now saves and retrieves the settings from a file, so that any modifications are remembered. To be safe, the IS always loads up using default settings, but the user can load the previously saved settings using the settings dialog box.
+- Better display of the PSF evolution in the IQ Metrics analysis window.
+- New internally-implemented IQ Metrics: Paraxial refraction, minRMS refraction and Chebyshev polynomial fit.
+- Performance tweaks.
+
+Change log 0.81 => 0.80:
+- Throughly tested and optimized the calculation of the diffraction-limited PSF reference. The user can now select one of 3 methods: FOC (purely numerical approach, default)/ Goodman (as in the book) / Somb (using the 2d sombrero function approximation).
+- New IQ metric in two flavors: Visual Acuity, and logMAR Visual Acuity calculated from the PSF. They are based on the assumption that following the Rayleigh criterion, the point of intersection of 2 barely resolvable airy disks occurs at the point where the disks' intensity is at 0,735 of maximum. This parameter is tuneable.
+- New feature in the IQ Metrics Panel: PSF "Evolution" images for each of the through-focus steps.
+- New feature in the IQ Metrics Panel: Users can now see, copy and paste the IQ metrics' scores into spreadsheets.
+- New feature - Quick Summary Tabs: users can now view and copy numerical results of basic calculations performed by the program, such as the halfwidth, cutoff frequency and others.
+- Added horizontal and vertical profiles to the Pupil Preview in the Quick View panel.
+- Lord Rayleigh's and George Airy's portraits included in the images library. Seems only right :)
+
+Change log 0.80 => 0.77:
+- Implemented Rob Iskander's methodology of the calculation of refractive power plots to get rid of the ugly discontinuity close to the center of the pupil. From: Objective refraction from monochromatic wavefront aberrations via Zernike power polynomials. D. Robert Iskander, Brett A. Davis, Michael J. Collins and Ross Franklin.
+- Further improvement of the multi-channel PSF cropping function. Users can now control the tightness of the crop from the launcher, by defining the threshold as the desired number of standard deviations from the mean.
+- Added horizontal and vertical profiles to the PSF preview in the Quick View panel.
+- Considerably improved performance of the Polychromatic PSF mode.
+- Improved the memory management by having Matlab free up the memory after closing any of the analysis windows.
+- Fixed a bug in the MTF PTF PF analysis window where in the Poly PSF mode the MTF plots would not be displayed correctly.
+TODO
+- Implement the translation of all the analysis windows,
+- Squish the bug where once the user closes an analysis window, opening the same one again throws an error,
+- Implement selected IQ Metrics internally in the manner similar to the Strehl Ratio.
+- Imolement the SAVE/LOAD functionality for the through focus analyses.
+
+Change log 0.77 => 0.76:
+- Improved considerably the multi-channel PSF cropping function,
+- Added multi-language suport. Two language versions are available: en_US and es_ES.
+- Added Spanish translation. Not the whole of the program is translated though. Translations are stored in the /languages/ folder as m-files. For now the IS.m needs to be edited to change the locale.
+- Align Chief Ray with Z-Axix and Correct the Defocus options moved to the launcher from the settings menu as they are useful.
+- New option in the Image Quality Metrics panel that allows the user to re-scale the X-axis.
+- Interface consistency tweaks - analyses are now always launched from the top right menu of the program, launcher included.
+
+Change log 0.76 => 0.75: 
+- Bugfix in the PSF cropping and rescaling function.
+- Added the ability to save the Through-Zernike figure to a PDF file.
+- Nice icons instead of text buttons to switch between analysis types. Added an option to launch a duplicate analysis window.
+- Known bug: Closing an analysis window and launching one of the same type from a previous one will throw an error due to handles being erased. This is a minor issue and will be addressed in the future.
+
+Change log 0.75 => 0.64: Biggest update yet.
+- Made incompatible with Matlab versions prior to 2014a because of their stupid, irresponsible and incoherent implementation of user interface elements, especifically uitab and uitabgroup. Thank you very much Mathworks.
+- Implemented Sowmya/Larry's "polyPSF" algorithms of simulated retinal image reconstruction from monochromatic stacks.
+- Update of the data structure and re-working of all of the analysis windows in order to accommodate the extra poly PSF "slices". The user can now see each one in glorious simulated colour via the Retinal Image Simulation analysis panel.
+- Verified the rescaling of the PSF against 2 papers and also Sowmya's polyPSF code. Detailed testing instructions included in the analysis_launcher_polypsf.m
+- Added selectable Uniform, Triangular, CRT and LCD Spectral Power Distributions. It is easy to implement other custom spectra.
+- FUTURE UPDATE needs to resolve the situation where the choosing the uniform radiance spectrum doesn't yield any LCA in the poly PSF mode. Cone sensitivity apparently is not taken into account.
+- Added the option to use either the Fourier Optics PSF or Geometrical Optics PSF for all of the calculations. However, the GO PSF doesn't support the pupil shape adjustments.
+- Following Phil Kruger's suggestion, the horizontal and vertical MTF profiles include R, G and B channels to be able to see how the MTF changes with wavelength.
+- Added the Advanced Settings panel where the user can change all of the most basic variables, such as Pupil Bits, Bits Per Pixel, PSF Multiplier, figure colours and font sizes and so on.
+- Performance Tweaks: Pre-allocating memory wherever possible to spare Matlab the heavy lifting and improve execution speed.
+- UI Tweak: 3d view added to Quick View panel in the launcher.
+- UI Tweak: PSF and Pupil preview added to Quick View panel in the launcher.
+- UI Tweak: Progress bar on top of all windows.
+- UI Tweak: All of the program's messages get saved to the "log.txt" file.
+- UI Tweak: Switching between various analysis types in Through Zernike mode preserves the current simulation step selection.
+- UI Tweak: In the IQ Metrics panel, clicking on any of the data points takes the user to the appropriate retinal image simulation.
+- UI Tweak: The title bar of the program now displays the name of the last imported file. It also gets saved in the log, so that one knows where they're at.
+
+Change log 0.67 => 0.61:
+- User's guide included
+- New panel/tab - "Ophtalmic Coefficients" with Spherical Equivalent, RMS error, Sphere, Cylinder, Angle, etc.
+- New panel/tab - "Quick View" with a quick preview of the wavefront and refraction. Both 2D and 3D views are available. Should be cool for students to visualize aberrations separately and how they interact.
+- New panel/tab - "Polychromatic Set Up" that allows the user to choose between simple PSF computation, and Larry's "Poly PSF" code that calculates a spread of PSF's taking into account the V(lambda) curve and source radiance. The latter is yet to be implemented.
+- Performance tweaks.
+
+Change log 0.55 => 0.60:
+- Fixed a big bug/omission where the Zernikes imported from HASO-based aberrometers didn't undergo Wyant - ANSI re-ordering.
+- Added a cool feature suggested by Norberto - on-the-fly wavefront preview. Change any of the Zernikes and see how it affects the wavefront.
+- Some cool paintings included in /images/
+- Minor fixes - preloader moved to a better location, etc.
+- The next version will include a PDF user guide and I will re-organize some of the figures in accordance with their utility.
+
+Change log 0.52 => 0.53:
+- Fixed forward slash, back slash path issues on Mac's. Should work perfectly,
+- Through Zernike steps can be switched using a dropbox menu instead of buttons. They would flow out of the screen for long analyses (screenshot attached)
+- Beauty fixes in IQ metrics panel.
+
+Change log 0.50 => 0.52:
+- Made compatible with 2014b,
+- A progress indicator has been added - the user doesn't need to switch to console to see the progress of calculations,
+- Added freezing of the interface during simulations - users can't interfere during computations.
+
+Change log 0.42 => 0.50:
+- Fixed bugs in saving of single images and PSF's and their Through-Zernike series. It now saves exactly what it displays,
+- Spline fitting in IQ Metrics analysis panel has been improved to the point of actual usability.
+- Major interface tweaks and improvements, several deep bugfixes.
+
+Change log 0.40 => 0.42:
+- Schwiegerling´s method of rescaling Zernikes that was limited to 36 modes has been replaced by Linda Lundstrom´s more elegant version.
+- The pyramid of Zernikes is now flexible, displaying variable number of modes. Positive Zenikes are colored green and negative Zernikes are colored red and this changes dynamically.
+- There are no more global variables in the code.
+- Small interface tweaks here and there.

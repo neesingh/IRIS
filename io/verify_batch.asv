@@ -1,0 +1,29 @@
+function [ zernikes, pupil_radius ] = verify_batch(~, ~)
+% Load each of the user-selected files of the batch and verify that it is
+% importable. Output the filelist with importability information.
+    
+    ui_handles = getappdata(gcbf, 'ui_handles');
+    
+    [filename, pathname, ~] = uigetfile({   '*.dat;*.xls;*.xlsx;*.mat;*.txt', 'All Compatible Files';... 
+                                            '*.dat', 'XML file from HASO';...
+                                            %'*.xls;*.xlsx', 'XLS file from IRX3';...
+                                            '*.txt', 'TXT file from IRX3';...
+                                            '*.mat', 'MAT file from Imaging Simulator'},...
+                                            'Select a file to import',...
+                                            'MultiSelect', 'on');
+
+    status = cell(length(filename),1);            
+    for f = 1:length(filename)
+        [ zernikes, pupil_radius, ~ ] = import_parser(gcbf, filename{f}, pathname);
+        if( ~isempty(zernikes) )                  
+            status{f} = sprintf('%d. %s%s%s', f, pathname, filesep, filename{f});
+        else
+            status = sprintf(t('An import error has occurred while processing %s - %s'), f, filename{f}, t('Import Error...'), length(zernikes));
+            break;
+        end
+            
+    end
+                                                                                         
+    set(ui_handles.batch_filelist, 'String', status);
+    
+end

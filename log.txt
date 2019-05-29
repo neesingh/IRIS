@@ -1,0 +1,968 @@
+IRIS version 0.93
+Released under CC BY-NC-ND 4.0 license. © 2019. Jaskulski M, Thibos L, Bradley A, Kollbaum P. Clinical Optics Research Lab (CORL) at Indiana University School of Optometry.
+28.5.2019, 15:40:47.
+
+GREETINGS PROFESSOR FALKEN.
+SHALL WE PLAY A GAME?
+
+[info] Working, Please Wait...
+[info] Calculating the diffraction-limited PSF
+[info] Calculating PSF
+[info] Done. Please Wait...
+[info] Ready
+[info] Working, Please Wait...
+[info] Calculating the diffraction-limited PSF
+[info] Calculating PSF
+[info] Done. Please Wait...
+[info] Ready
+[info] Working, Please Wait...
+[info] Calculating the diffraction-limited PSF
+[info] Calculating PSF
+[info] Done. Please Wait...
+[info] Ready
+[info] Working, Please Wait...
+[info] Calculating the diffraction-limited PSF
+[info] Calculating PSF
+[info] Calculating PSF
+[info] Calculating PSF
+[info] Calculating PSF
+[info] Calculating PSF
+[info] Calculating PSF
+[info] Calculating PSF
+[info] Calculating PSF
+[info] Calculating PSF
+[info] Calculating PSF
+[info] Calculating PSF
+[info] Calculating PSF
+[info] Calculating PSF
+[info] Calculating PSF
+[info] Calculating PSF
+[info] Calculating PSF
+[info] Calculating PSF
+[info] Calculating PSF
+[info] Calculating PSF
+[info] Calculating PSF
+[info] Calculating PSF
+[info] Done. Please Wait...
+[info] Ready
+[info] Performing Convolution
+[info] Performing Convolution
+[info] Performing Convolution
+[info] Performing Convolution
+[info] Performing Convolution
+[info] Performing Convolution
+[info] Performing Convolution
+[info] Performing Convolution
+[info] Working, Please Wait...
+[info] Calculating the diffraction-limited PSF
+[info] Calculating PSF
+[info] Done. Please Wait...
+[info] Performing Convolution
+[info] Ready
+[info] Working, Please Wait...
+[info] Calculating the diffraction-limited PSF
+[info] Calculating PSF
+[info] Done. Please Wait...
+[info] Performing Convolution
+[info] Ready
+[info] Working, Please Wait...
+[info] Calculating the diffraction-limited PSF
+[info] Calculating PSF
+[info] Done. Please Wait...
+[info] Performing Convolution
+[info] Ready
+[info] Working, Please Wait...
+[info] Calculating the diffraction-limited PSF
+[info] Calculating PSF
+[info] Done. Please Wait...
+[info] Performing Convolution
+[info] Ready
+[info] Working, Please Wait...
+[info] Calculating the diffraction-limited PSF
+[info] Calculating PSF
+[info] Done. Please Wait...
+[info] Performing Convolution
+[info] Ready
+[info] Working, Please Wait...
+[info] Calculating the diffraction-limited PSF
+[info] Calculating PSF
+[info] Done. Please Wait...
+[info] Performing Convolution
+[info] Ready
+[info] Working, Please Wait...
+[info] Step 1/3 - Calculating PSF stack
+[info] Step 1/3 - Calculating PSF stack
+[info] Step 1/3 - Calculating PSF stack
+[info] Step 1/3 - Calculating PSF stack
+[info] Step 1/3 - Calculating PSF stack
+[info] Step 1/3 - Calculating PSF stack
+[info] Step 1/3 - Calculating PSF stack
+[info] Calculating the diffraction-limited PSF
+[info] Step 2/3 - Calculating poly-PSFs
+[info] Radiance 437.50 nm PSF volume: 9.98E-06.
+[info] Radiance 475.00 nm PSF volume: 4.18E-06.
+[info] Radiance 512.50 nm PSF volume: 1.13E-06.
+[info] Radiance 550.00 nm PSF volume: 4.06E-06.
+[info] Radiance 587.50 nm PSF volume: 1.01E-04.
+[info] Radiance 625.00 nm PSF volume: 1.19E-04.
+[info] Radiance 662.50 nm PSF volume: 1.93E-05.
+[info] Calculating the diffraction-limited PSF
+[info] Step 2/3 - Calculating poly-PSFs
+[info] Radiance 437.50 nm PSF volume: 5.21E-06.
+[info] Radiance 475.00 nm PSF volume: 5.32E-05.
+[info] Radiance 512.50 nm PSF volume: 2.48E-05.
+[info] Radiance 550.00 nm PSF volume: 2.20E-04.
+[info] Radiance 587.50 nm PSF volume: 7.03E-05.
+[info] Radiance 625.00 nm PSF volume: 1.46E-05.
+[info] Radiance 662.50 nm PSF volume: 2.90E-06.
+[info] Calculating the diffraction-limited PSF
+[info] Step 2/3 - Calculating poly-PSFs
+[info] Radiance 437.50 nm PSF volume: 1.62E-04.
+[info] Radiance 475.00 nm PSF volume: 1.26E-04.
+[info] Radiance 512.50 nm PSF volume: 1.67E-05.
+[info] Radiance 550.00 nm PSF volume: 3.72E-05.
+[info] Radiance 587.50 nm PSF volume: 2.82E-06.
+[info] Radiance 625.00 nm PSF volume: 1.69E-06.
+[info] Radiance 662.50 nm PSF volume: 1.09E-06.
+[info] Step 1/3 - Calculating PSF stack
+[info] Step 1/3 - Calculating PSF stack
+[info] Step 1/3 - Calculating PSF stack
+[info] Step 1/3 - Calculating PSF stack
+[info] Step 1/3 - Calculating PSF stack
+[info] Step 1/3 - Calculating PSF stack
+[info] Step 1/3 - Calculating PSF stack
+[info] Step 2/3 - Calculating poly-PSFs
+[info] Radiance 437.50 nm PSF volume: 9.98E-06.
+[info] Radiance 475.00 nm PSF volume: 4.18E-06.
+[info] Radiance 512.50 nm PSF volume: 1.13E-06.
+[info] Radiance 550.00 nm PSF volume: 4.06E-06.
+[info] Radiance 587.50 nm PSF volume: 1.01E-04.
+[info] Radiance 625.00 nm PSF volume: 1.19E-04.
+[info] Radiance 662.50 nm PSF volume: 1.93E-05.
+[info] Step 2/3 - Calculating poly-PSFs
+[info] Radiance 437.50 nm PSF volume: 5.21E-06.
+[info] Radiance 475.00 nm PSF volume: 5.33E-05.
+[info] Radiance 512.50 nm PSF volume: 2.48E-05.
+[info] Radiance 550.00 nm PSF volume: 2.20E-04.
+[info] Radiance 587.50 nm PSF volume: 7.03E-05.
+[info] Radiance 625.00 nm PSF volume: 1.46E-05.
+[info] Radiance 662.50 nm PSF volume: 2.90E-06.
+[info] Step 2/3 - Calculating poly-PSFs
+[info] Radiance 437.50 nm PSF volume: 1.62E-04.
+[info] Radiance 475.00 nm PSF volume: 1.26E-04.
+[info] Radiance 512.50 nm PSF volume: 1.67E-05.
+[info] Radiance 550.00 nm PSF volume: 3.72E-05.
+[info] Radiance 587.50 nm PSF volume: 2.82E-06.
+[info] Radiance 625.00 nm PSF volume: 1.69E-06.
+[info] Radiance 662.50 nm PSF volume: 1.10E-06.
+[info] Step 1/3 - Calculating PSF stack
+[info] Step 1/3 - Calculating PSF stack
+[info] Step 1/3 - Calculating PSF stack
+[info] Step 1/3 - Calculating PSF stack
+[info] Step 1/3 - Calculating PSF stack
+[info] Step 1/3 - Calculating PSF stack
+[info] Step 1/3 - Calculating PSF stack
+[info] Step 2/3 - Calculating poly-PSFs
+[info] Radiance 437.50 nm PSF volume: 9.98E-06.
+[info] Radiance 475.00 nm PSF volume: 4.18E-06.
+[info] Radiance 512.50 nm PSF volume: 1.13E-06.
+[info] Radiance 550.00 nm PSF volume: 4.06E-06.
+[info] Radiance 587.50 nm PSF volume: 1.01E-04.
+[info] Radiance 625.00 nm PSF volume: 1.19E-04.
+[info] Radiance 662.50 nm PSF volume: 1.93E-05.
+[info] Step 2/3 - Calculating poly-PSFs
+[info] Radiance 437.50 nm PSF volume: 5.20E-06.
+[info] Radiance 475.00 nm PSF volume: 5.32E-05.
+[info] Radiance 512.50 nm PSF volume: 2.48E-05.
+[info] Radiance 550.00 nm PSF volume: 2.20E-04.
+[info] Radiance 587.50 nm PSF volume: 7.03E-05.
+[info] Radiance 625.00 nm PSF volume: 1.46E-05.
+[info] Radiance 662.50 nm PSF volume: 2.90E-06.
+[info] Step 2/3 - Calculating poly-PSFs
+[info] Radiance 437.50 nm PSF volume: 1.62E-04.
+[info] Radiance 475.00 nm PSF volume: 1.26E-04.
+[info] Radiance 512.50 nm PSF volume: 1.67E-05.
+[info] Radiance 550.00 nm PSF volume: 3.72E-05.
+[info] Radiance 587.50 nm PSF volume: 2.82E-06.
+[info] Radiance 625.00 nm PSF volume: 1.69E-06.
+[info] Radiance 662.50 nm PSF volume: 1.10E-06.
+[info] Step 1/3 - Calculating PSF stack
+[info] Step 1/3 - Calculating PSF stack
+[info] Step 1/3 - Calculating PSF stack
+[info] Step 1/3 - Calculating PSF stack
+[info] Step 1/3 - Calculating PSF stack
+[info] Step 1/3 - Calculating PSF stack
+[info] Step 1/3 - Calculating PSF stack
+[info] Step 2/3 - Calculating poly-PSFs
+[info] Radiance 437.50 nm PSF volume: 9.98E-06.
+[info] Radiance 475.00 nm PSF volume: 4.18E-06.
+[info] Radiance 512.50 nm PSF volume: 1.13E-06.
+[info] Radiance 550.00 nm PSF volume: 4.06E-06.
+[info] Radiance 587.50 nm PSF volume: 1.01E-04.
+[info] Radiance 625.00 nm PSF volume: 1.19E-04.
+[info] Radiance 662.50 nm PSF volume: 1.93E-05.
+[info] Step 2/3 - Calculating poly-PSFs
+[info] Radiance 437.50 nm PSF volume: 5.20E-06.
+[info] Radiance 475.00 nm PSF volume: 5.32E-05.
+[info] Radiance 512.50 nm PSF volume: 2.48E-05.
+[info] Radiance 550.00 nm PSF volume: 2.19E-04.
+[info] Radiance 587.50 nm PSF volume: 7.03E-05.
+[info] Radiance 625.00 nm PSF volume: 1.46E-05.
+[info] Radiance 662.50 nm PSF volume: 2.90E-06.
+[info] Step 2/3 - Calculating poly-PSFs
+[info] Radiance 437.50 nm PSF volume: 1.62E-04.
+[info] Radiance 475.00 nm PSF volume: 1.26E-04.
+[info] Radiance 512.50 nm PSF volume: 1.67E-05.
+[info] Radiance 550.00 nm PSF volume: 3.72E-05.
+[info] Radiance 587.50 nm PSF volume: 2.82E-06.
+[info] Radiance 625.00 nm PSF volume: 1.68E-06.
+[info] Radiance 662.50 nm PSF volume: 1.10E-06.
+[info] Step 1/3 - Calculating PSF stack
+[info] Step 1/3 - Calculating PSF stack
+[info] Step 1/3 - Calculating PSF stack
+[info] Step 1/3 - Calculating PSF stack
+[info] Step 1/3 - Calculating PSF stack
+[info] Step 1/3 - Calculating PSF stack
+[info] Step 1/3 - Calculating PSF stack
+[info] Step 2/3 - Calculating poly-PSFs
+[info] Radiance 437.50 nm PSF volume: 9.98E-06.
+[info] Radiance 475.00 nm PSF volume: 4.18E-06.
+[info] Radiance 512.50 nm PSF volume: 1.13E-06.
+[info] Radiance 550.00 nm PSF volume: 4.06E-06.
+[info] Radiance 587.50 nm PSF volume: 1.01E-04.
+[info] Radiance 625.00 nm PSF volume: 1.19E-04.
+[info] Radiance 662.50 nm PSF volume: 1.93E-05.
+[info] Step 2/3 - Calculating poly-PSFs
+[info] Radiance 437.50 nm PSF volume: 5.20E-06.
+[info] Radiance 475.00 nm PSF volume: 5.32E-05.
+[info] Radiance 512.50 nm PSF volume: 2.48E-05.
+[info] Radiance 550.00 nm PSF volume: 2.19E-04.
+[info] Radiance 587.50 nm PSF volume: 7.03E-05.
+[info] Radiance 625.00 nm PSF volume: 1.46E-05.
+[info] Radiance 662.50 nm PSF volume: 2.90E-06.
+[info] Step 2/3 - Calculating poly-PSFs
+[info] Radiance 437.50 nm PSF volume: 1.62E-04.
+[info] Radiance 475.00 nm PSF volume: 1.26E-04.
+[info] Radiance 512.50 nm PSF volume: 1.67E-05.
+[info] Radiance 550.00 nm PSF volume: 3.72E-05.
+[info] Radiance 587.50 nm PSF volume: 2.82E-06.
+[info] Radiance 625.00 nm PSF volume: 1.68E-06.
+[info] Radiance 662.50 nm PSF volume: 1.09E-06.
+[info] Step 1/3 - Calculating PSF stack
+[info] Step 1/3 - Calculating PSF stack
+[info] Step 1/3 - Calculating PSF stack
+[info] Step 1/3 - Calculating PSF stack
+[info] Step 1/3 - Calculating PSF stack
+[info] Step 1/3 - Calculating PSF stack
+[info] Step 1/3 - Calculating PSF stack
+[info] Step 2/3 - Calculating poly-PSFs
+[info] Radiance 437.50 nm PSF volume: 9.98E-06.
+[info] Radiance 475.00 nm PSF volume: 4.18E-06.
+[info] Radiance 512.50 nm PSF volume: 1.13E-06.
+[info] Radiance 550.00 nm PSF volume: 4.06E-06.
+[info] Radiance 587.50 nm PSF volume: 1.01E-04.
+[info] Radiance 625.00 nm PSF volume: 1.19E-04.
+[info] Radiance 662.50 nm PSF volume: 1.93E-05.
+[info] Step 2/3 - Calculating poly-PSFs
+[info] Radiance 437.50 nm PSF volume: 5.20E-06.
+[info] Radiance 475.00 nm PSF volume: 5.32E-05.
+[info] Radiance 512.50 nm PSF volume: 2.48E-05.
+[info] Radiance 550.00 nm PSF volume: 2.20E-04.
+[info] Radiance 587.50 nm PSF volume: 7.03E-05.
+[info] Radiance 625.00 nm PSF volume: 1.46E-05.
+[info] Radiance 662.50 nm PSF volume: 2.90E-06.
+[info] Step 2/3 - Calculating poly-PSFs
+[info] Radiance 437.50 nm PSF volume: 1.62E-04.
+[info] Radiance 475.00 nm PSF volume: 1.26E-04.
+[info] Radiance 512.50 nm PSF volume: 1.67E-05.
+[info] Radiance 550.00 nm PSF volume: 3.72E-05.
+[info] Radiance 587.50 nm PSF volume: 2.82E-06.
+[info] Radiance 625.00 nm PSF volume: 1.69E-06.
+[info] Radiance 662.50 nm PSF volume: 1.10E-06.
+[info] Step 1/3 - Calculating PSF stack
+[info] Step 1/3 - Calculating PSF stack
+[info] Step 1/3 - Calculating PSF stack
+[info] Step 1/3 - Calculating PSF stack
+[info] Step 1/3 - Calculating PSF stack
+[info] Step 1/3 - Calculating PSF stack
+[info] Step 1/3 - Calculating PSF stack
+[info] Step 2/3 - Calculating poly-PSFs
+[info] Radiance 437.50 nm PSF volume: 9.98E-06.
+[info] Radiance 475.00 nm PSF volume: 4.18E-06.
+[info] Radiance 512.50 nm PSF volume: 1.13E-06.
+[info] Radiance 550.00 nm PSF volume: 4.06E-06.
+[info] Radiance 587.50 nm PSF volume: 1.01E-04.
+[info] Radiance 625.00 nm PSF volume: 1.19E-04.
+[info] Radiance 662.50 nm PSF volume: 1.93E-05.
+[info] Step 2/3 - Calculating poly-PSFs
+[info] Radiance 437.50 nm PSF volume: 5.21E-06.
+[info] Radiance 475.00 nm PSF volume: 5.33E-05.
+[info] Radiance 512.50 nm PSF volume: 2.48E-05.
+[info] Radiance 550.00 nm PSF volume: 2.20E-04.
+[info] Radiance 587.50 nm PSF volume: 7.03E-05.
+[info] Radiance 625.00 nm PSF volume: 1.46E-05.
+[info] Radiance 662.50 nm PSF volume: 2.90E-06.
+[info] Step 2/3 - Calculating poly-PSFs
+[info] Radiance 437.50 nm PSF volume: 1.62E-04.
+[info] Radiance 475.00 nm PSF volume: 1.26E-04.
+[info] Radiance 512.50 nm PSF volume: 1.67E-05.
+[info] Radiance 550.00 nm PSF volume: 3.72E-05.
+[info] Radiance 587.50 nm PSF volume: 2.82E-06.
+[info] Radiance 625.00 nm PSF volume: 1.68E-06.
+[info] Radiance 662.50 nm PSF volume: 1.09E-06.
+[info] Step 1/3 - Calculating PSF stack
+[info] Step 1/3 - Calculating PSF stack
+[info] Step 1/3 - Calculating PSF stack
+[info] Step 1/3 - Calculating PSF stack
+[info] Step 1/3 - Calculating PSF stack
+[info] Step 1/3 - Calculating PSF stack
+[info] Step 1/3 - Calculating PSF stack
+[info] Step 2/3 - Calculating poly-PSFs
+[info] Radiance 437.50 nm PSF volume: 9.98E-06.
+[info] Radiance 475.00 nm PSF volume: 4.18E-06.
+[info] Radiance 512.50 nm PSF volume: 1.13E-06.
+[info] Radiance 550.00 nm PSF volume: 4.06E-06.
+[info] Radiance 587.50 nm PSF volume: 1.01E-04.
+[info] Radiance 625.00 nm PSF volume: 1.19E-04.
+[info] Radiance 662.50 nm PSF volume: 1.93E-05.
+[info] Step 2/3 - Calculating poly-PSFs
+[info] Radiance 437.50 nm PSF volume: 5.20E-06.
+[info] Radiance 475.00 nm PSF volume: 5.33E-05.
+[info] Radiance 512.50 nm PSF volume: 2.48E-05.
+[info] Radiance 550.00 nm PSF volume: 2.19E-04.
+[info] Radiance 587.50 nm PSF volume: 7.03E-05.
+[info] Radiance 625.00 nm PSF volume: 1.46E-05.
+[info] Radiance 662.50 nm PSF volume: 2.90E-06.
+[info] Step 2/3 - Calculating poly-PSFs
+[info] Radiance 437.50 nm PSF volume: 1.62E-04.
+[info] Radiance 475.00 nm PSF volume: 1.26E-04.
+[info] Radiance 512.50 nm PSF volume: 1.67E-05.
+[info] Radiance 550.00 nm PSF volume: 3.72E-05.
+[info] Radiance 587.50 nm PSF volume: 2.82E-06.
+[info] Radiance 625.00 nm PSF volume: 1.68E-06.
+[info] Radiance 662.50 nm PSF volume: 1.10E-06.
+[info] Step 1/3 - Calculating PSF stack
+[info] Step 1/3 - Calculating PSF stack
+[info] Step 1/3 - Calculating PSF stack
+[info] Step 1/3 - Calculating PSF stack
+[info] Step 1/3 - Calculating PSF stack
+[info] Step 1/3 - Calculating PSF stack
+[info] Step 1/3 - Calculating PSF stack
+[info] Step 2/3 - Calculating poly-PSFs
+[info] Radiance 437.50 nm PSF volume: 9.98E-06.
+[info] Radiance 475.00 nm PSF volume: 4.18E-06.
+[info] Radiance 512.50 nm PSF volume: 1.13E-06.
+[info] Radiance 550.00 nm PSF volume: 4.06E-06.
+[info] Radiance 587.50 nm PSF volume: 1.01E-04.
+[info] Radiance 625.00 nm PSF volume: 1.19E-04.
+[info] Radiance 662.50 nm PSF volume: 1.93E-05.
+[info] Step 2/3 - Calculating poly-PSFs
+[info] Radiance 437.50 nm PSF volume: 5.20E-06.
+[info] Radiance 475.00 nm PSF volume: 5.32E-05.
+[info] Radiance 512.50 nm PSF volume: 2.48E-05.
+[info] Radiance 550.00 nm PSF volume: 2.20E-04.
+[info] Radiance 587.50 nm PSF volume: 7.03E-05.
+[info] Radiance 625.00 nm PSF volume: 1.46E-05.
+[info] Radiance 662.50 nm PSF volume: 2.90E-06.
+[info] Step 2/3 - Calculating poly-PSFs
+[info] Radiance 437.50 nm PSF volume: 1.62E-04.
+[info] Radiance 475.00 nm PSF volume: 1.26E-04.
+[info] Radiance 512.50 nm PSF volume: 1.67E-05.
+[info] Radiance 550.00 nm PSF volume: 3.72E-05.
+[info] Radiance 587.50 nm PSF volume: 2.82E-06.
+[info] Radiance 625.00 nm PSF volume: 1.68E-06.
+[info] Radiance 662.50 nm PSF volume: 1.10E-06.
+[info] Step 1/3 - Calculating PSF stack
+[info] Step 1/3 - Calculating PSF stack
+[info] Step 1/3 - Calculating PSF stack
+[info] Step 1/3 - Calculating PSF stack
+[info] Step 1/3 - Calculating PSF stack
+[info] Step 1/3 - Calculating PSF stack
+[info] Step 1/3 - Calculating PSF stack
+[info] Step 2/3 - Calculating poly-PSFs
+[info] Radiance 437.50 nm PSF volume: 9.98E-06.
+[info] Radiance 475.00 nm PSF volume: 4.18E-06.
+[info] Radiance 512.50 nm PSF volume: 1.13E-06.
+[info] Radiance 550.00 nm PSF volume: 4.06E-06.
+[info] Radiance 587.50 nm PSF volume: 1.01E-04.
+[info] Radiance 625.00 nm PSF volume: 1.19E-04.
+[info] Radiance 662.50 nm PSF volume: 1.93E-05.
+[info] Step 2/3 - Calculating poly-PSFs
+[info] Radiance 437.50 nm PSF volume: 5.20E-06.
+[info] Radiance 475.00 nm PSF volume: 5.32E-05.
+[info] Radiance 512.50 nm PSF volume: 2.48E-05.
+[info] Radiance 550.00 nm PSF volume: 2.20E-04.
+[info] Radiance 587.50 nm PSF volume: 7.03E-05.
+[info] Radiance 625.00 nm PSF volume: 1.46E-05.
+[info] Radiance 662.50 nm PSF volume: 2.90E-06.
+[info] Step 2/3 - Calculating poly-PSFs
+[info] Radiance 437.50 nm PSF volume: 1.62E-04.
+[info] Radiance 475.00 nm PSF volume: 1.26E-04.
+[info] Radiance 512.50 nm PSF volume: 1.67E-05.
+[info] Radiance 550.00 nm PSF volume: 3.72E-05.
+[info] Radiance 587.50 nm PSF volume: 2.82E-06.
+[info] Radiance 625.00 nm PSF volume: 1.69E-06.
+[info] Radiance 662.50 nm PSF volume: 1.09E-06.
+[info] Step 1/3 - Calculating PSF stack
+[info] Step 1/3 - Calculating PSF stack
+[info] Step 1/3 - Calculating PSF stack
+[info] Step 1/3 - Calculating PSF stack
+[info] Step 1/3 - Calculating PSF stack
+[info] Step 1/3 - Calculating PSF stack
+[info] Step 1/3 - Calculating PSF stack
+[info] Step 2/3 - Calculating poly-PSFs
+[info] Radiance 437.50 nm PSF volume: 9.98E-06.
+[info] Radiance 475.00 nm PSF volume: 4.18E-06.
+[info] Radiance 512.50 nm PSF volume: 1.13E-06.
+[info] Radiance 550.00 nm PSF volume: 4.06E-06.
+[info] Radiance 587.50 nm PSF volume: 1.01E-04.
+[info] Radiance 625.00 nm PSF volume: 1.19E-04.
+[info] Radiance 662.50 nm PSF volume: 1.93E-05.
+[info] Step 2/3 - Calculating poly-PSFs
+[info] Radiance 437.50 nm PSF volume: 5.20E-06.
+[info] Radiance 475.00 nm PSF volume: 5.32E-05.
+[info] Radiance 512.50 nm PSF volume: 2.48E-05.
+[info] Radiance 550.00 nm PSF volume: 2.19E-04.
+[info] Radiance 587.50 nm PSF volume: 7.03E-05.
+[info] Radiance 625.00 nm PSF volume: 1.46E-05.
+[info] Radiance 662.50 nm PSF volume: 2.90E-06.
+[info] Step 2/3 - Calculating poly-PSFs
+[info] Radiance 437.50 nm PSF volume: 1.62E-04.
+[info] Radiance 475.00 nm PSF volume: 1.26E-04.
+[info] Radiance 512.50 nm PSF volume: 1.67E-05.
+[info] Radiance 550.00 nm PSF volume: 3.72E-05.
+[info] Radiance 587.50 nm PSF volume: 2.82E-06.
+[info] Radiance 625.00 nm PSF volume: 1.69E-06.
+[info] Radiance 662.50 nm PSF volume: 1.10E-06.
+[info] Step 1/3 - Calculating PSF stack
+[info] Step 1/3 - Calculating PSF stack
+[info] Step 1/3 - Calculating PSF stack
+[info] Step 1/3 - Calculating PSF stack
+[info] Step 1/3 - Calculating PSF stack
+[info] Step 1/3 - Calculating PSF stack
+[info] Step 1/3 - Calculating PSF stack
+[info] Step 2/3 - Calculating poly-PSFs
+[info] Radiance 437.50 nm PSF volume: 9.98E-06.
+[info] Radiance 475.00 nm PSF volume: 4.18E-06.
+[info] Radiance 512.50 nm PSF volume: 1.13E-06.
+[info] Radiance 550.00 nm PSF volume: 4.06E-06.
+[info] Radiance 587.50 nm PSF volume: 1.01E-04.
+[info] Radiance 625.00 nm PSF volume: 1.19E-04.
+[info] Radiance 662.50 nm PSF volume: 1.93E-05.
+[info] Step 2/3 - Calculating poly-PSFs
+[info] Radiance 437.50 nm PSF volume: 5.21E-06.
+[info] Radiance 475.00 nm PSF volume: 5.32E-05.
+[info] Radiance 512.50 nm PSF volume: 2.48E-05.
+[info] Radiance 550.00 nm PSF volume: 2.19E-04.
+[info] Radiance 587.50 nm PSF volume: 7.03E-05.
+[info] Radiance 625.00 nm PSF volume: 1.46E-05.
+[info] Radiance 662.50 nm PSF volume: 2.90E-06.
+[info] Step 2/3 - Calculating poly-PSFs
+[info] Radiance 437.50 nm PSF volume: 1.62E-04.
+[info] Radiance 475.00 nm PSF volume: 1.26E-04.
+[info] Radiance 512.50 nm PSF volume: 1.67E-05.
+[info] Radiance 550.00 nm PSF volume: 3.72E-05.
+[info] Radiance 587.50 nm PSF volume: 2.82E-06.
+[info] Radiance 625.00 nm PSF volume: 1.69E-06.
+[info] Radiance 662.50 nm PSF volume: 1.10E-06.
+[info] Step 1/3 - Calculating PSF stack
+[info] Step 1/3 - Calculating PSF stack
+[info] Step 1/3 - Calculating PSF stack
+[info] Step 1/3 - Calculating PSF stack
+[info] Step 1/3 - Calculating PSF stack
+[info] Step 1/3 - Calculating PSF stack
+[info] Step 1/3 - Calculating PSF stack
+[info] Step 2/3 - Calculating poly-PSFs
+[info] Radiance 437.50 nm PSF volume: 9.98E-06.
+[info] Radiance 475.00 nm PSF volume: 4.18E-06.
+[info] Radiance 512.50 nm PSF volume: 1.13E-06.
+[info] Radiance 550.00 nm PSF volume: 4.06E-06.
+[info] Radiance 587.50 nm PSF volume: 1.01E-04.
+[info] Radiance 625.00 nm PSF volume: 1.19E-04.
+[info] Radiance 662.50 nm PSF volume: 1.93E-05.
+[info] Step 2/3 - Calculating poly-PSFs
+[info] Radiance 437.50 nm PSF volume: 5.20E-06.
+[info] Radiance 475.00 nm PSF volume: 5.33E-05.
+[info] Radiance 512.50 nm PSF volume: 2.48E-05.
+[info] Radiance 550.00 nm PSF volume: 2.20E-04.
+[info] Radiance 587.50 nm PSF volume: 7.03E-05.
+[info] Radiance 625.00 nm PSF volume: 1.46E-05.
+[info] Radiance 662.50 nm PSF volume: 2.90E-06.
+[info] Step 2/3 - Calculating poly-PSFs
+[info] Radiance 437.50 nm PSF volume: 1.62E-04.
+[info] Radiance 475.00 nm PSF volume: 1.26E-04.
+[info] Radiance 512.50 nm PSF volume: 1.67E-05.
+[info] Radiance 550.00 nm PSF volume: 3.72E-05.
+[info] Radiance 587.50 nm PSF volume: 2.82E-06.
+[info] Radiance 625.00 nm PSF volume: 1.69E-06.
+[info] Radiance 662.50 nm PSF volume: 1.10E-06.
+[info] Step 1/3 - Calculating PSF stack
+[info] Step 1/3 - Calculating PSF stack
+[info] Step 1/3 - Calculating PSF stack
+[info] Step 1/3 - Calculating PSF stack
+[info] Step 1/3 - Calculating PSF stack
+[info] Step 1/3 - Calculating PSF stack
+[info] Step 1/3 - Calculating PSF stack
+[info] Step 2/3 - Calculating poly-PSFs
+[info] Radiance 437.50 nm PSF volume: 9.98E-06.
+[info] Radiance 475.00 nm PSF volume: 4.18E-06.
+[info] Radiance 512.50 nm PSF volume: 1.13E-06.
+[info] Radiance 550.00 nm PSF volume: 4.06E-06.
+[info] Radiance 587.50 nm PSF volume: 1.01E-04.
+[info] Radiance 625.00 nm PSF volume: 1.19E-04.
+[info] Radiance 662.50 nm PSF volume: 1.93E-05.
+[info] Step 2/3 - Calculating poly-PSFs
+[info] Radiance 437.50 nm PSF volume: 5.21E-06.
+[info] Radiance 475.00 nm PSF volume: 5.33E-05.
+[info] Radiance 512.50 nm PSF volume: 2.48E-05.
+[info] Radiance 550.00 nm PSF volume: 2.19E-04.
+[info] Radiance 587.50 nm PSF volume: 7.03E-05.
+[info] Radiance 625.00 nm PSF volume: 1.46E-05.
+[info] Radiance 662.50 nm PSF volume: 2.90E-06.
+[info] Step 2/3 - Calculating poly-PSFs
+[info] Radiance 437.50 nm PSF volume: 1.62E-04.
+[info] Radiance 475.00 nm PSF volume: 1.26E-04.
+[info] Radiance 512.50 nm PSF volume: 1.67E-05.
+[info] Radiance 550.00 nm PSF volume: 3.72E-05.
+[info] Radiance 587.50 nm PSF volume: 2.82E-06.
+[info] Radiance 625.00 nm PSF volume: 1.69E-06.
+[info] Radiance 662.50 nm PSF volume: 1.10E-06.
+[info] Step 1/3 - Calculating PSF stack
+[info] Step 1/3 - Calculating PSF stack
+[info] Step 1/3 - Calculating PSF stack
+[info] Step 1/3 - Calculating PSF stack
+[info] Step 1/3 - Calculating PSF stack
+[info] Step 1/3 - Calculating PSF stack
+[info] Step 1/3 - Calculating PSF stack
+[info] Step 2/3 - Calculating poly-PSFs
+[info] Radiance 437.50 nm PSF volume: 9.98E-06.
+[info] Radiance 475.00 nm PSF volume: 4.18E-06.
+[info] Radiance 512.50 nm PSF volume: 1.13E-06.
+[info] Radiance 550.00 nm PSF volume: 4.06E-06.
+[info] Radiance 587.50 nm PSF volume: 1.01E-04.
+[info] Radiance 625.00 nm PSF volume: 1.19E-04.
+[info] Radiance 662.50 nm PSF volume: 1.93E-05.
+[info] Step 2/3 - Calculating poly-PSFs
+[info] Radiance 437.50 nm PSF volume: 5.21E-06.
+[info] Radiance 475.00 nm PSF volume: 5.32E-05.
+[info] Radiance 512.50 nm PSF volume: 2.48E-05.
+[info] Radiance 550.00 nm PSF volume: 2.20E-04.
+[info] Radiance 587.50 nm PSF volume: 7.03E-05.
+[info] Radiance 625.00 nm PSF volume: 1.46E-05.
+[info] Radiance 662.50 nm PSF volume: 2.90E-06.
+[info] Step 2/3 - Calculating poly-PSFs
+[info] Radiance 437.50 nm PSF volume: 1.62E-04.
+[info] Radiance 475.00 nm PSF volume: 1.26E-04.
+[info] Radiance 512.50 nm PSF volume: 1.67E-05.
+[info] Radiance 550.00 nm PSF volume: 3.72E-05.
+[info] Radiance 587.50 nm PSF volume: 2.82E-06.
+[info] Radiance 625.00 nm PSF volume: 1.69E-06.
+[info] Radiance 662.50 nm PSF volume: 1.09E-06.
+[info] Step 1/3 - Calculating PSF stack
+[info] Step 1/3 - Calculating PSF stack
+[info] Step 1/3 - Calculating PSF stack
+[info] Step 1/3 - Calculating PSF stack
+[info] Step 1/3 - Calculating PSF stack
+[info] Step 1/3 - Calculating PSF stack
+[info] Step 1/3 - Calculating PSF stack
+[info] Step 2/3 - Calculating poly-PSFs
+[info] Radiance 437.50 nm PSF volume: 9.98E-06.
+[info] Radiance 475.00 nm PSF volume: 4.18E-06.
+[info] Radiance 512.50 nm PSF volume: 1.13E-06.
+[info] Radiance 550.00 nm PSF volume: 4.06E-06.
+[info] Radiance 587.50 nm PSF volume: 1.01E-04.
+[info] Radiance 625.00 nm PSF volume: 1.19E-04.
+[info] Radiance 662.50 nm PSF volume: 1.93E-05.
+[info] Step 2/3 - Calculating poly-PSFs
+[info] Radiance 437.50 nm PSF volume: 5.21E-06.
+[info] Radiance 475.00 nm PSF volume: 5.32E-05.
+[info] Radiance 512.50 nm PSF volume: 2.48E-05.
+[info] Radiance 550.00 nm PSF volume: 2.19E-04.
+[info] Radiance 587.50 nm PSF volume: 7.03E-05.
+[info] Radiance 625.00 nm PSF volume: 1.46E-05.
+[info] Radiance 662.50 nm PSF volume: 2.90E-06.
+[info] Step 2/3 - Calculating poly-PSFs
+[info] Radiance 437.50 nm PSF volume: 1.62E-04.
+[info] Radiance 475.00 nm PSF volume: 1.26E-04.
+[info] Radiance 512.50 nm PSF volume: 1.67E-05.
+[info] Radiance 550.00 nm PSF volume: 3.72E-05.
+[info] Radiance 587.50 nm PSF volume: 2.82E-06.
+[info] Radiance 625.00 nm PSF volume: 1.68E-06.
+[info] Radiance 662.50 nm PSF volume: 1.10E-06.
+[info] Step 1/3 - Calculating PSF stack
+[info] Step 1/3 - Calculating PSF stack
+[info] Step 1/3 - Calculating PSF stack
+[info] Step 1/3 - Calculating PSF stack
+[info] Step 1/3 - Calculating PSF stack
+[info] Step 1/3 - Calculating PSF stack
+[info] Step 1/3 - Calculating PSF stack
+[info] Step 2/3 - Calculating poly-PSFs
+[info] Radiance 437.50 nm PSF volume: 9.98E-06.
+[info] Radiance 475.00 nm PSF volume: 4.18E-06.
+[info] Radiance 512.50 nm PSF volume: 1.13E-06.
+[info] Radiance 550.00 nm PSF volume: 4.06E-06.
+[info] Radiance 587.50 nm PSF volume: 1.01E-04.
+[info] Radiance 625.00 nm PSF volume: 1.19E-04.
+[info] Radiance 662.50 nm PSF volume: 1.93E-05.
+[info] Step 2/3 - Calculating poly-PSFs
+[info] Radiance 437.50 nm PSF volume: 5.21E-06.
+[info] Radiance 475.00 nm PSF volume: 5.32E-05.
+[info] Radiance 512.50 nm PSF volume: 2.48E-05.
+[info] Radiance 550.00 nm PSF volume: 2.20E-04.
+[info] Radiance 587.50 nm PSF volume: 7.03E-05.
+[info] Radiance 625.00 nm PSF volume: 1.46E-05.
+[info] Radiance 662.50 nm PSF volume: 2.90E-06.
+[info] Step 2/3 - Calculating poly-PSFs
+[info] Radiance 437.50 nm PSF volume: 1.62E-04.
+[info] Radiance 475.00 nm PSF volume: 1.26E-04.
+[info] Radiance 512.50 nm PSF volume: 1.67E-05.
+[info] Radiance 550.00 nm PSF volume: 3.72E-05.
+[info] Radiance 587.50 nm PSF volume: 2.82E-06.
+[info] Radiance 625.00 nm PSF volume: 1.69E-06.
+[info] Radiance 662.50 nm PSF volume: 1.10E-06.
+[info] Step 1/3 - Calculating PSF stack
+[info] Step 1/3 - Calculating PSF stack
+[info] Step 1/3 - Calculating PSF stack
+[info] Step 1/3 - Calculating PSF stack
+[info] Step 1/3 - Calculating PSF stack
+[info] Step 1/3 - Calculating PSF stack
+[info] Step 1/3 - Calculating PSF stack
+[info] Step 2/3 - Calculating poly-PSFs
+[info] Radiance 437.50 nm PSF volume: 9.98E-06.
+[info] Radiance 475.00 nm PSF volume: 4.18E-06.
+[info] Radiance 512.50 nm PSF volume: 1.13E-06.
+[info] Radiance 550.00 nm PSF volume: 4.06E-06.
+[info] Radiance 587.50 nm PSF volume: 1.01E-04.
+[info] Radiance 625.00 nm PSF volume: 1.19E-04.
+[info] Radiance 662.50 nm PSF volume: 1.93E-05.
+[info] Step 2/3 - Calculating poly-PSFs
+[info] Radiance 437.50 nm PSF volume: 5.21E-06.
+[info] Radiance 475.00 nm PSF volume: 5.32E-05.
+[info] Radiance 512.50 nm PSF volume: 2.48E-05.
+[info] Radiance 550.00 nm PSF volume: 2.19E-04.
+[info] Radiance 587.50 nm PSF volume: 7.03E-05.
+[info] Radiance 625.00 nm PSF volume: 1.46E-05.
+[info] Radiance 662.50 nm PSF volume: 2.90E-06.
+[info] Step 2/3 - Calculating poly-PSFs
+[info] Radiance 437.50 nm PSF volume: 1.62E-04.
+[info] Radiance 475.00 nm PSF volume: 1.26E-04.
+[info] Radiance 512.50 nm PSF volume: 1.67E-05.
+[info] Radiance 550.00 nm PSF volume: 3.72E-05.
+[info] Radiance 587.50 nm PSF volume: 2.82E-06.
+[info] Radiance 625.00 nm PSF volume: 1.69E-06.
+[info] Radiance 662.50 nm PSF volume: 1.10E-06.
+[info] Step 1/3 - Calculating PSF stack
+[info] Step 1/3 - Calculating PSF stack
+[info] Step 1/3 - Calculating PSF stack
+[info] Step 1/3 - Calculating PSF stack
+[info] Step 1/3 - Calculating PSF stack
+[info] Step 1/3 - Calculating PSF stack
+[info] Step 1/3 - Calculating PSF stack
+[info] Step 2/3 - Calculating poly-PSFs
+[info] Radiance 437.50 nm PSF volume: 9.98E-06.
+[info] Radiance 475.00 nm PSF volume: 4.18E-06.
+[info] Radiance 512.50 nm PSF volume: 1.13E-06.
+[info] Radiance 550.00 nm PSF volume: 4.06E-06.
+[info] Radiance 587.50 nm PSF volume: 1.01E-04.
+[info] Radiance 625.00 nm PSF volume: 1.19E-04.
+[info] Radiance 662.50 nm PSF volume: 1.93E-05.
+[info] Step 2/3 - Calculating poly-PSFs
+[info] Radiance 437.50 nm PSF volume: 5.21E-06.
+[info] Radiance 475.00 nm PSF volume: 5.32E-05.
+[info] Radiance 512.50 nm PSF volume: 2.48E-05.
+[info] Radiance 550.00 nm PSF volume: 2.19E-04.
+[info] Radiance 587.50 nm PSF volume: 7.03E-05.
+[info] Radiance 625.00 nm PSF volume: 1.46E-05.
+[info] Radiance 662.50 nm PSF volume: 2.90E-06.
+[info] Step 2/3 - Calculating poly-PSFs
+[info] Radiance 437.50 nm PSF volume: 1.62E-04.
+[info] Radiance 475.00 nm PSF volume: 1.26E-04.
+[info] Radiance 512.50 nm PSF volume: 1.67E-05.
+[info] Radiance 550.00 nm PSF volume: 3.72E-05.
+[info] Radiance 587.50 nm PSF volume: 2.82E-06.
+[info] Radiance 625.00 nm PSF volume: 1.69E-06.
+[info] Radiance 662.50 nm PSF volume: 1.10E-06.
+[info] Step 1/3 - Calculating PSF stack
+[info] Step 1/3 - Calculating PSF stack
+[info] Step 1/3 - Calculating PSF stack
+[info] Step 1/3 - Calculating PSF stack
+[info] Step 1/3 - Calculating PSF stack
+[info] Step 1/3 - Calculating PSF stack
+[info] Step 1/3 - Calculating PSF stack
+[info] Step 2/3 - Calculating poly-PSFs
+[info] Radiance 437.50 nm PSF volume: 9.98E-06.
+[info] Radiance 475.00 nm PSF volume: 4.18E-06.
+[info] Radiance 512.50 nm PSF volume: 1.13E-06.
+[info] Radiance 550.00 nm PSF volume: 4.06E-06.
+[info] Radiance 587.50 nm PSF volume: 1.01E-04.
+[info] Radiance 625.00 nm PSF volume: 1.19E-04.
+[info] Radiance 662.50 nm PSF volume: 1.93E-05.
+[info] Step 2/3 - Calculating poly-PSFs
+[info] Radiance 437.50 nm PSF volume: 5.21E-06.
+[info] Radiance 475.00 nm PSF volume: 5.33E-05.
+[info] Radiance 512.50 nm PSF volume: 2.48E-05.
+[info] Radiance 550.00 nm PSF volume: 2.20E-04.
+[info] Radiance 587.50 nm PSF volume: 7.03E-05.
+[info] Radiance 625.00 nm PSF volume: 1.46E-05.
+[info] Radiance 662.50 nm PSF volume: 2.90E-06.
+[info] Step 2/3 - Calculating poly-PSFs
+[info] Radiance 437.50 nm PSF volume: 1.62E-04.
+[info] Radiance 475.00 nm PSF volume: 1.26E-04.
+[info] Radiance 512.50 nm PSF volume: 1.67E-05.
+[info] Radiance 550.00 nm PSF volume: 3.72E-05.
+[info] Radiance 587.50 nm PSF volume: 2.82E-06.
+[info] Radiance 625.00 nm PSF volume: 1.68E-06.
+[info] Radiance 662.50 nm PSF volume: 1.09E-06.
+[info] Step 1/3 - Calculating PSF stack
+[info] Step 1/3 - Calculating PSF stack
+[info] Step 1/3 - Calculating PSF stack
+[info] Step 1/3 - Calculating PSF stack
+[info] Step 1/3 - Calculating PSF stack
+[info] Step 1/3 - Calculating PSF stack
+[info] Step 1/3 - Calculating PSF stack
+[info] Step 2/3 - Calculating poly-PSFs
+[info] Radiance 437.50 nm PSF volume: 9.98E-06.
+[info] Radiance 475.00 nm PSF volume: 4.18E-06.
+[info] Radiance 512.50 nm PSF volume: 1.13E-06.
+[info] Radiance 550.00 nm PSF volume: 4.06E-06.
+[info] Radiance 587.50 nm PSF volume: 1.01E-04.
+[info] Radiance 625.00 nm PSF volume: 1.19E-04.
+[info] Radiance 662.50 nm PSF volume: 1.93E-05.
+[info] Step 2/3 - Calculating poly-PSFs
+[info] Radiance 437.50 nm PSF volume: 5.21E-06.
+[info] Radiance 475.00 nm PSF volume: 5.33E-05.
+[info] Radiance 512.50 nm PSF volume: 2.48E-05.
+[info] Radiance 550.00 nm PSF volume: 2.19E-04.
+[info] Radiance 587.50 nm PSF volume: 7.03E-05.
+[info] Radiance 625.00 nm PSF volume: 1.46E-05.
+[info] Radiance 662.50 nm PSF volume: 2.90E-06.
+[info] Step 2/3 - Calculating poly-PSFs
+[info] Radiance 437.50 nm PSF volume: 1.62E-04.
+[info] Radiance 475.00 nm PSF volume: 1.26E-04.
+[info] Radiance 512.50 nm PSF volume: 1.67E-05.
+[info] Radiance 550.00 nm PSF volume: 3.72E-05.
+[info] Radiance 587.50 nm PSF volume: 2.82E-06.
+[info] Radiance 625.00 nm PSF volume: 1.68E-06.
+[info] Radiance 662.50 nm PSF volume: 1.10E-06.
+[info] Done. Please Wait...
+[info] Ready
+[info] Performing Convolution
+[info] Performing Convolution
+[info] Performing Convolution
+[info] Performing Convolution
+[info] Performing Convolution
+[info] Performing Convolution
+[info] Performing Convolution
+[info] Performing Convolution
+[info] Performing Convolution
+[info] Performing Convolution
+[info] Performing Convolution
+[info] Performing Convolution
+[info] Performing Convolution
+[info] Performing Convolution
+[info] Performing Convolution
+[info] Performing Convolution
+[info] Performing Convolution
+[info] Performing Convolution
+[info] Performing Convolution
+[info] Performing Convolution
+[info] Performing Convolution
+[info] Performing Convolution
+[info] Performing Convolution
+[info] Performing Convolution
+[info] Performing Convolution
+[info] Performing Convolution
+[info] Performing Convolution
+[info] Performing Convolution
+[info] Performing Convolution
+[info] Performing Convolution
+[info] Performing Convolution
+[info] Performing Convolution
+[info] Performing Convolution
+[info] Performing Convolution
+[info] Performing Convolution
+[info] Performing Convolution
+[info] Performing Convolution
+[info] Performing Convolution
+[info] Performing Convolution
+[info] Performing Convolution
+[info] Performing Convolution
+[info] Performing Convolution
+[info] Performing Convolution
+[info] Performing Convolution
+[info] Performing Convolution
+[info] Performing Convolution
+[info] Performing Convolution
+[info] Performing Convolution
+[info] Performing Convolution
+[info] Performing Convolution
+[info] Performing Convolution
+[info] Performing Convolution
+[info] Performing Convolution
+[info] Performing Convolution
+[info] Performing Convolution
+[info] Performing Convolution
+[info] Performing Convolution
+[info] Performing Convolution
+[info] Performing Convolution
+[info] Performing Convolution
+[info] Analysis exported to Through Focus Polychromatic DECENTER 0.5D.mat.
+[info] Working, Please Wait...
+[info] Calculating the diffraction-limited PSF
+[info] Calculating PSF
+[info] Calculating PSF
+[info] Calculating PSF
+[info] Calculating PSF
+[info] Calculating PSF
+[info] Calculating PSF
+[info] Calculating PSF
+[info] Calculating PSF
+[info] Calculating PSF
+[info] Calculating PSF
+[info] Calculating PSF
+[info] Calculating PSF
+[info] Calculating PSF
+[info] Calculating PSF
+[info] Calculating PSF
+[info] Calculating PSF
+[info] Calculating PSF
+[info] Calculating PSF
+[info] Calculating PSF
+[info] Calculating PSF
+[info] Calculating PSF
+[info] Done. Please Wait...
+[info] Ready
+[info] Working, Please Wait...
+[info] Calculating the diffraction-limited PSF
+[info] Calculating PSF
+[info] Done. Please Wait...
+[info] Ready
+[info] Working, Please Wait...
+[info] Calculating the diffraction-limited PSF
+[info] Calculating PSF
+[info] Calculating PSF
+[info] Calculating PSF
+[info] Calculating PSF
+[info] Calculating PSF
+[info] Calculating PSF
+[info] Calculating PSF
+[info] Calculating PSF
+[info] Calculating PSF
+[info] Calculating PSF
+[info] Calculating PSF
+[info] Calculating PSF
+[info] Calculating PSF
+[info] Calculating PSF
+[info] Calculating PSF
+[info] Calculating PSF
+[info] Calculating PSF
+[info] Calculating PSF
+[info] Calculating PSF
+[info] Calculating PSF
+[info] Calculating PSF
+[info] Done. Please Wait...
+[info] Ready
+[info] Performing Convolution
+[info] Performing Convolution
+[info] Working, Please Wait...
+[info] Calculating the diffraction-limited PSF
+[info] Calculating PSF
+[info] Done. Please Wait...
+[info] Ready
+[info] Working, Please Wait...
+[info] Calculating the diffraction-limited PSF
+[info] Calculating PSF
+[info] Calculating PSF
+[info] Calculating PSF
+[info] Calculating PSF
+[info] Calculating PSF
+[info] Calculating PSF
+[info] Calculating PSF
+[info] Calculating PSF
+[info] Calculating PSF
+[info] Calculating PSF
+[info] Calculating PSF
+[info] Calculating PSF
+[info] Calculating PSF
+[info] Calculating PSF
+[info] Calculating PSF
+[info] Calculating PSF
+[info] Calculating PSF
+[info] Calculating PSF
+[info] Calculating PSF
+[info] Calculating PSF
+[info] Calculating PSF
+[info] Done. Please Wait...
+[info] Ready
+[info] Performing Convolution
+[info] Performing Convolution
+[info] Performing Convolution
+[info] Working, Please Wait...
+[info] Calculating the diffraction-limited PSF
+[info] Calculating PSF
+[info] Done. Please Wait...
+[info] Ready
+[info] Working, Please Wait...
+[info] Calculating the diffraction-limited PSF
+[info] Calculating PSF
+[info] Calculating PSF
+[info] Calculating PSF
+[info] Calculating PSF
+[info] Calculating PSF
+[info] Calculating PSF
+[info] Calculating PSF
+[info] Calculating PSF
+[info] Calculating PSF
+[info] Calculating PSF
+[info] Calculating PSF
+[info] Calculating PSF
+[info] Calculating PSF
+[info] Calculating PSF
+[info] Calculating PSF
+[info] Calculating PSF
+[info] Calculating PSF
+[info] Calculating PSF
+[info] Calculating PSF
+[info] Calculating PSF
+[info] Calculating PSF
+[info] Done. Please Wait...
+[info] Ready
+[info] Performing Convolution
+[info] Performing Convolution
+[info] Performing Convolution
+[info] Working, Please Wait...
+[info] Calculating the diffraction-limited PSF
+[info] Calculating PSF
+[info] Done. Please Wait...
+[info] Ready
+[info] Working, Please Wait...
+[info] Calculating the diffraction-limited PSF
+[info] Calculating PSF
+[info] Calculating PSF
+[info] Calculating PSF
+[info] Calculating PSF
+[info] Calculating PSF
+[info] Calculating PSF
+[info] Calculating PSF
+[info] Calculating PSF
+[info] Calculating PSF
+[info] Calculating PSF
+[info] Calculating PSF
+[info] Calculating PSF
+[info] Calculating PSF
+[info] Calculating PSF
+[info] Calculating PSF
+[info] Calculating PSF
+[info] Calculating PSF
+[info] Calculating PSF
+[info] Calculating PSF
+[info] Calculating PSF
+[info] Calculating PSF
+[info] Done. Please Wait...
+[info] Ready
+[info] Performing Convolution
+[info] Performing Convolution
+[info] Performing Convolution
+[info] Loading analyses, please wait...
+[info] Analyses imported from Through Focus Polychromatic DECENTER 0.5D.mat.
+[info] Ready
