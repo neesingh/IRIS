@@ -4,6 +4,8 @@
 % Parts based on the works of authors mentioned in the "About" section of
 % the settings.
 %
+% Git Demonstration for Larry
+%
 % Adapted and developed by Matt Jaskulski, University of Murcia © 2015
 %
 %
